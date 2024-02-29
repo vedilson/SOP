@@ -1,2 +1,1 @@
-# SOP
-Sistemas Operacionais
+# SOP - Sistemas Operacionais

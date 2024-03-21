@@ -37,4 +37,4 @@ Descrição da Atividade
 
 - Crie um .bat com o nome Horario.bat que exiba o horário atual e a mensagem “Horário de Saída: 16h”.
 
-- Crie uma tarefa no Agendador de tarefas que execute o .bat a cada 1h
+- Crie uma tarefa no Agendador de tarefas que execute o arquivo Horario.bat a cada 1h

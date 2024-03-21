@@ -2,10 +2,15 @@ Descrição da Atividade
 
 - Cria uma máquina Virtual com o Windows 10
 	Configurações da VM:
+
 •	Nome: SENAI_WINDOWS_10
+
 •	RAM: 2048mb
+
 •	Processador: 1
+
 •	HD: 20gb
+
 - Na configuração do Windows determine o nome do usuário como Desenvolvedor.
 -Assim que a máquina estiver funcional navegue até a pasta Documentos através do Explorador de arquivos.
 - Dentro da pasta Documentos crie uma pasta chamada Departamentos
